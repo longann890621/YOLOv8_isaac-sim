@@ -1,1 +1,1 @@
-# YOLOv8_isaac-sim
+# YOLOv8_isaac-sim synthetic data
